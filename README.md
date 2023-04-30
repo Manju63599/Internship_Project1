@@ -5,17 +5,14 @@ Github documentation for a project
  <img width=400px height=300px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 <h3 align="center">Organic Goods Login & Register Page</h3>
-<div align="center">
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-</div>
----
+<hr style="border 1px gray>
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
-## 📝 Table of Contents
+<h2>📝 Table of Contents</h2>
+<ul style="type:dotted">
+<a href="#about">About</a>             
+                </ul>
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
