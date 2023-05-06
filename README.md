@@ -28,7 +28,11 @@ Github documentation for a project
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 <h3>Prerequisites</h3>
 <p>To complete this project Installed NetBaens Java IDE and MySQL.
-                                                  below is the Step by Step Procedure to Install the NetBeans IDe into the Windows System.</p>
+    below is the Step by Step Procedure to Install the NetBeans IDe into the Windows System.</p>
+<ul>
+<li>Here i am attching the link for the Netbeans IDE exe <a href="https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe"></a></li>
+
+</ul>
 <h3>Installing</h3>
 <p>A step by step series of examples that tell you how to get a development env running.
 Say what the step will be
