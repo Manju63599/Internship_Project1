@@ -51,8 +51,8 @@ Add additional notes about how to deploy this on a live system.
 <ul>
  <li>Java</li>
  <li>MySQL</li>
- <li>HTML</li>
- <li>CSS</li>
+ <li>JDBC</li>
+                                        
 </ul>
  <h3>✍️ Authors <a name = "authors"></a></h3>
                                    <ul>li>- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work</li></ul>
