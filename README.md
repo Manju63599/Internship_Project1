@@ -24,8 +24,8 @@ Github documentation for a project
  <h2>🧐 About<a href=""></a></h2>
  <p> The main purpose of the project is to give it a security for the user as well as the login and register form is used to collect the leads for collecting the data of the customer.The main reason to choose my project as Login and Register Form is each and every website start with login and Register form.now a days as a part of digital marketing most the leads appeared while browsing.in the hyper competitive market for theh starting point on we shoulb able to engage the customer/user then only we are able to stand in the market.To create a intrest and leave an imprrssion to the user wiht in a short span time seems very challenging and intresting.  </p>
 <h2>🏁 Getting Started <a name = "getting_started"></a></h2>
-                                                  <p>below are the steps available to download and install the IDE</p>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+                                                  <p>below are the steps available to download and install the IDE.</p>
+
 <h3>Prerequisites</h3>
     <p>We Should have a basic idea of how to use the Java IDE and understanding of the JAVA Syntax.</p>
 <p>To complete this project Installed NetBaens Java IDE and MySQL.
