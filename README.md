@@ -10,7 +10,7 @@ Github documentation for a project
 </p>
 <h2>📝 Table of Contents</h2>
 <ul>
-                 <li>About<a href="#about"></a></li>
+                 <li><a href="#about">About</a></li>
  <li><a href="#getting_started">Getting Started</a></li>
                                <li><a href="#deployment">Deployment</a></li> 
  <li><a href="#usage">Usage</li>
@@ -46,7 +46,7 @@ For SQL YOG also we need to DOWNLOAD from WEB.While setting up the SQL we should
 
 End with an example of getting some data out of the system or using it for a little demo.
 ### <h3>🔧 Running the tests <a name = "tests"></a></h3>
-Explain what these tests test and why
+ORGANIC GOODS LOGIN AND REGISTER FORM TESTED with the Compiler and manully Testing completed by giving different different scenarios and tetsted each and component in the given program. 
 <h2>🎈 Usage <a name="usage"></a><h2>
 Add notes about how to use the system.
 <h3>🚀 Deployment <a name = "deployment"></a></h3>
