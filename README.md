@@ -27,19 +27,23 @@ Github documentation for a project
                                                   <p>below are the steps available to download and install the IDE</p>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 <h3>Prerequisites</h3>
+    <p>We Should have a basic idea of how to use the Java IDE and understanding of the JAVA Syntax.</p>
 <p>To complete this project Installed NetBaens Java IDE and MySQL.
     below is the Step by Step Procedure to Install the NetBeans IDE into the Windows System.</p>
 <div>
-Here i am attching the link for the Netbeans IDE exe "https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe".
-After Installation we need to start working on the IDE.
+Here I am attching the link for the Netbeans IDE exe "https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe".Installation Process is similar to any other softwares available in the market.
+For SQL YOG also we need to DOWNLOAD from WEB.While setting up the SQL we should give Port :3306 and it is our choice to give the password or NOT.
 </div>
-<h3>Installing</h3>
-<p>A step by step series of examples that tell you how to get a development env running.
-Say what the step will be
-                                                  And repeat
 
-until finished
-</p>
+<h3>Installing</h3>
+<ul>
+<li>Open Chrome and paste the given URL:"https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe"<li>
+ <li> A zip file of NETBeans is downloaded,Open the zin file Click on .exe file of NetBeans.</li>
+                                                                                                                                                      <li>Select the file as Administator and select next and agree to the terms and conditions after that check the Desktop Shortcut box and The icon of the IDE shown on the DESKTOP.</li>
+                                                                                                                                                      <li>We can customize the Storage of the IDE.
+                                                          Otherwise we can go with the system generated storage location.
+</ul>
+
 End with an example of getting some data out of the system or using it for a little demo.
 ### <h3>🔧 Running the tests <a name = "tests"></a></h3>
 Explain what these tests test and why
