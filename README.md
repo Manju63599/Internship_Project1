@@ -37,15 +37,11 @@ For SQL YOG also we need to DOWNLOAD from WEB.While setting up the SQL we should
 
 <h3>Installing</h3>
 <ul>
-<li>Open Chrome and paste the given URL:"https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe"<li>
+<li>Open Chrome and paste the given URL:"https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe"</li>
  <li> A zip file of NETBeans is downloaded,Open the zin file Click on .exe file of NetBeans.</li>
-                                                                                                                                                      <li>Select the file as Administator and select next and agree to the terms and conditions after that check the Desktop Shortcut box and The icon of the IDE shown on the DESKTOP.</li>
-                                                                                                                                                      <li>We can customize the Storage of the IDE.
-                                                          Otherwise we can go with the system generated storage location.
-</ul>
-
-End with an example of getting some data out of the system or using it for a little demo.
-### <h3>🔧 Running the tests <a name = "tests"></a></h3>
+<li>Select the file as Administator and select next and agree to the terms and conditions after that check the Desktop Shortcut box and The icon of the IDE shown on the DESKTOP.</li>
+<li>We can customize the Storage of the ID Otherwise we can go with the system generated storage location.</li></ul>
+<h3>🔧 Running the tests <a name = "tests"></a></h3>
 ORGANIC GOODS LOGIN AND REGISTER FORM TESTED with the Compiler and manully Testing completed by giving different different scenarios and tetsted each and component in the given program. 
 <h2>🎈 Usage <a name="usage"></a><h2>
 Add notes about how to use the system.
