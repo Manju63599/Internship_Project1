@@ -28,11 +28,11 @@ Github documentation for a project
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 <h3>Prerequisites</h3>
 <p>To complete this project Installed NetBaens Java IDE and MySQL.
-    below is the Step by Step Procedure to Install the NetBeans IDe into the Windows System.</p>
-<ul>
-<li>Here i am attching the link for the Netbeans IDE exe <a href="https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe"></a></li>
-
-</ul>
+    below is the Step by Step Procedure to Install the NetBeans IDE into the Windows System.</p>
+<div>
+Here i am attching the link for the Netbeans IDE exe "https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe".
+After Installation we need to start working on the IDE.
+</div>
 <h3>Installing</h3>
 <p>A step by step series of examples that tell you how to get a development env running.
 Say what the step will be
@@ -46,7 +46,7 @@ Explain what these tests test and why
 <h2>🎈 Usage <a name="usage"></a><h2>
 Add notes about how to use the system.
 <h3>🚀 Deployment <a name = "deployment"></a></h3>
-Add additional notes about how to deploy this on a live system.
+                                        <p>for this Project we </p>
 <h3>⛏️ Built Using <a href="built_using"></a></h3>
 <ul>
  <li>Java</li>
@@ -55,10 +55,9 @@ Add additional notes about how to deploy this on a live system.
                                         
 </ul>
  <h3>✍️ Authors <a name = "authors"></a></h3>
-                                   <ul>li>- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work</li></ul>
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+                                   <P>Initiation & Idea <strong>Junie D Solemon</strong></p>
+                                   <h4>Manjunatha</h4>
 <h2>🎉 Acknowledgements <a name = "acknowledgement"></a></h2>
-                                                  <ul> <li>Hat tip to anyone whose code was used</li>
-                                                   <li>Inspiration</li>
-                                                   <li>References</li? </ul>
+                                                  <ul> 
+                                                   <li>Code4Education website</li></ul>
 
