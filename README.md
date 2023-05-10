@@ -46,7 +46,7 @@ ORGANIC GOODS LOGIN AND REGISTER FORM TESTED with the Compiler and manully Testi
 <h2>🎈 Usage <a name="usage"></a><h2>
 Add notes about how to use the system.
 <h3>🚀 Deployment <a name = "deployment"></a></h3>
-                                        <p>for this Project we </p>
+                                        <p>This project require server side support so that I am unable to deploy the code on github.</p>
 <h3>⛏️ Built Using <a href="built_using"></a></h3>
 <ul>
  <li>Java</li>
